@@ -1,7 +1,7 @@
 
 typedef struct Inf{
 	
-	//informacion de la cola
+	// esta es la informacion de la cola
 	
 } Info;
 
